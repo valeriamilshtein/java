@@ -1,14 +1,10 @@
-package com.kovunov;
+package com.milshtein;
 
 import lombok.Builder;
 import lombok.Data;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Objects;
-
 @Data
-@Builder
+@Builderiyfiufuygoiugoi
 public class SoccerPlayer {
     private final String firstName;
     private final String lastName;

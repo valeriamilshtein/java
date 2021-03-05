@@ -1,4 +1,4 @@
-package com.kovunov;
+package com.milshtein;
 
 public class Main {
     public static void main(String[] args) {
