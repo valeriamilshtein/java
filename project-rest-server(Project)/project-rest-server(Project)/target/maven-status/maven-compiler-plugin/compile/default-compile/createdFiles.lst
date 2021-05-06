@@ -1,0 +1,16 @@
+com\group\rest\LeagueResource.class
+com\group\entity\Request.class
+com\group\entity\Team.class
+com\group\rest\TeamResource.class
+com\group\service\PlayerService.class
+com\group\service\PlayerServiceImpl.class
+com\group\entity\League.class
+com\group\entity\PlayerUpdateDto.class
+com\group\rest\RestApplication.class
+com\group\service\TeamServiceImpl.class
+com\group\entity\TeamUpdateDto.class
+com\group\rest\PlayerResource.class
+com\group\service\LeagueServiceImpl.class
+com\group\service\TeamService.class
+com\group\service\LeagueService.class
+com\group\entity\Player.class
