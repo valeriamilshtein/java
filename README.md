@@ -1,1 +1,2 @@
-# My Java projects repository on GitHub.
+# java
+My Java projects repository on GitHub.
